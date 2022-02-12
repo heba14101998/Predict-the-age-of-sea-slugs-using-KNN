@@ -15,7 +15,7 @@ The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervise
 ## Tools
 
 * Python 3.
-* Python basic modeules math.
+* Python basic modeules math and collections.
 * NumPy Library (1.18.5).
 * Pandas Library (1.3.3).
 * Matplotlib Library (3.3.2).
