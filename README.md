@@ -36,8 +36,8 @@ In this tutorial, you’ll work with the **Abalone Dataset** [2]. You could down
 1. Load the data
 2. Initialize K to your chosen number of neighbors
 3. For each example in the data
-  * Calculate the distance between the query example and the current example from the data.
-  * Add the distance and the index of the example to an ordered collection
+   * Calculate the distance between the query example and the current example from the data.
+   * Add the distance and the index of the example to an ordered collection
 4. Sort the ordered collection of distances and indices from smallest to largest (in ascending order) by the distances
 5. Pick the first K entries from the sorted collection
 6. Get the labels of the selected K entries
@@ -54,7 +54,9 @@ In this tutorial, you’ll work with the **Abalone Dataset** [2]. You could down
 </center>
 
 [1] [Applied Predictive Modeling book](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485)
+
 [2] [Abalone Dataset](https://archive.ics.uci.edu/ml/datasets/abalone)
+
 [3] [The k-Nearest Neighbors (kNN) Algorithm in Python](https://realpython.com/knn-python/)
 
 **Note:**
